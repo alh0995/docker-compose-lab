@@ -1,5 +1,7 @@
 Author: Alexandra Hernandez Gomez
+
 Revision Date: November 16, 2025
+
 What: This documentation explains how I installed Docker Engine and Docker Compose on my Ubuntu 24.04 VM inside VMware Fusion, and deployed the open-source monitoring tool Uptime Kuma using a docker-compose.yml file. 
 
 
